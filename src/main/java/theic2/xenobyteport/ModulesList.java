@@ -26,7 +26,7 @@ import theic2.xenobyteport.modules.vanilla.*;
 import java.util.ArrayList;
 
 public class ModulesList extends ArrayList<CheatModule> {
-    {
+    { 
         add(new AdvancedTooltip());
         add(new RenderControl());
         add(new AntiKnockBack());
